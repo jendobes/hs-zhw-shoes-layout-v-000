@@ -18,10 +18,8 @@
   line-height: 0;
 }
 
-.clear {
+[class*="col-"] {
   clear: both;
 }
 
 /* Posititoning Classes */
-
-
