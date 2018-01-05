@@ -24,11 +24,11 @@
 
 /* Posititoning Classes */
 #dates {
-  float: left;
+  float: right;
 }
 
 #shadow.first {
-  float: right;
+  float: left;
 }
 
 #col-1 {
