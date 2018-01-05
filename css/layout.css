@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 .shadow {
-  margin: 1%;
+  margin: 1% ;
 }
 
 .list.shadow {
@@ -38,13 +38,13 @@
 }
 
 .col-1 {
-
+float: right;
 }
 
 .col-2 {
-
+float: right;
 }
 
 .col-3 {
-
+float: left;
 }
