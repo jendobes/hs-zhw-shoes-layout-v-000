@@ -28,3 +28,5 @@ width: 32%;
 float:left;
 width: 64%;
 }
+
+[class*='col-']
