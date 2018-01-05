@@ -32,6 +32,10 @@
   width: 30%;
 }
 
+.col-1 {
+  float: left;
+  width: 30%;
+}
 .grass.shadow {
   float: left;
   width: 64%;
