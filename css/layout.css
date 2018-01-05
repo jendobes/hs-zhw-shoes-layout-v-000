@@ -23,28 +23,28 @@
 }
 
 /* Posititoning Classes */
-#shadow {
+.shadow {
   margin: 2%;
 }
 
-#dates {
+.dates {
   float: right;
   width: 32%;
 }
 
-#shadow.first {
+.shadow.first {
   float: left;
   width: 66%;
 }
 
-#col-1 {
+.col-1 {
 
 }
 
-#col-2 {
+.col-2 {
 
 }
 
-#col-3 {
+.col-3 {
 
 }
