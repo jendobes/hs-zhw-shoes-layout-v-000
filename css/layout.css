@@ -26,11 +26,11 @@ width: 32%;
 
 .col-2 {
 float:left;
-width: 65.66%;
+width: 65.33%;
 }
 .col-3 {
 float:left;
-width: 32.666%;
+width: 32%;
 }
 [class*='col-'] {
   margin-left: 2%;
