@@ -27,7 +27,7 @@
   margin: 2%;
 }
 
-.dates {
+.dates.shadow {
   float: right;
   width: 32%;
 }
